@@ -15,7 +15,7 @@ for(let i = 0; i <quadradosQtd; i++){ //montando quantidade de quadrados na tela
         removeColorFromE1(quadrado) //removendo a cor ao tirar o mouse
     })
 
-    principal.appendChild(quadrado) //REVER DEFINIÇÃO!!!!!!!!!!
+    principal.appendChild(quadrado)
 }
 
 function setColorToE1(element){
